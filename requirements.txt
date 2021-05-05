@@ -1,0 +1,35 @@
+-f /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx512
+-f /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/avx2
+-f /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo/generic
+-f /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+attrs==20.3.0
+cffi==1.14.5
+dask==2021.2.0
+Deprecated==1.2.12
+fsspec==0.8.7
+importlib-metadata==3.10.0
+iniconfig==1.1.1
+locket==0.2.0
+numpy==1.19.1
+packaging==20.9
+pandas==1.0.5
+pandas-plink==2.0.3
+partd==1.1.0
+pluggy==0.13.1
+py==1.10.0
+pycparser==2.20
+pyparsing==2.4.7
+pytest==6.2.2
+python-dateutil==2.8.1
+pytz==2021.1
+PyYAML==5.3.1
+scipy==1.4.1
+six==1.15.0
+toml==0.10.2
+toolz==0.11.1
+tqdm==4.60.0
+typing-extensions==3.7.4.3
+wrapt==1.12.1
+xarray==0.16.2
+zipp==3.4.1
+zstandard==0.12.0
